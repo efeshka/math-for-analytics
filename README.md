@@ -1,2 +1,11 @@
-# math-for-analytics
-Math problems and solutions relevant for data and IT analyst interviews
+# Math for Analytics
+
+This repository contains math problems and solutions that frequently appear in analyst interviews.
+
+Focus areas:
+- Probability and expectation
+- Combinatorics
+- Logical reasoning
+- Algebraic transformations
+
+Solutions are written step by step.
